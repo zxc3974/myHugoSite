@@ -3,7 +3,8 @@ baseURL: 'https://hugo-start.pages.dev'
 # 网站标题
 title: 'Hugo Start'
 # 每页显示的文章数量
-paginate: 5
+pagination:
+  paperSize: 5
 # 主题名称
 theme: PaperMod
 # 语言代码（zh-简体中文）
