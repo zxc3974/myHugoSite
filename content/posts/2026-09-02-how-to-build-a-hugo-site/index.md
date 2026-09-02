@@ -1,10 +1,10 @@
 ---
-title: "2026 09 02 How to Build a Hugo Site"
-summary: ""
+title: "How to Build a Hugo Site"
+summary: "If you want to build a serverless static blog, why not try the Hugo site. It takes you just 5 minutes to build your own blog, let's get into it!"
 date: 2026-09-02T14:38:04+08:00
 lastmod: 2026-09-02T14:38:04+08:00
-categories:
-tags:
+categories:'tech'
+tags:'hugo'
 comments: true
 ShowToc: true
 TocOpen: true
