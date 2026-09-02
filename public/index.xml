@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo Start</title>
-    <link>http://localhost:1313/</link>
+    <link>https://myhugosite-cnt.pages.dev/</link>
     <description>Recent content on Hugo Start</description>
     <image>
       <title>Hugo Start</title>
-      <url>http://localhost:1313/opengraph.webp</url>
-      <link>http://localhost:1313/opengraph.webp</link>
+      <url>https://myhugosite-cnt.pages.dev/opengraph.webp</url>
+      <link>https://myhugosite-cnt.pages.dev/opengraph.webp</link>
     </image>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:15:44 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 21:14:19 +0800</lastBuildDate>
+    <atom:link href="https://myhugosite-cnt.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Hugo Start</title>
-      <link>http://localhost:1313/posts/hello-hugo-start/</link>
-      <pubDate>Tue, 01 Sep 2026 20:15:44 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-hugo-start/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <title>My Hugo First Post</title>
+      <link>https://myhugosite-cnt.pages.dev/posts/2026-09-01-the-first-post/</link>
+      <pubDate>Tue, 01 Sep 2026 21:14:19 +0800</pubDate>
+      <guid>https://myhugosite-cnt.pages.dev/posts/2026-09-01-the-first-post/</guid>
+      <description>&lt;p&gt;So, this would be the first post of my blog. Today is 1 Sep 2026, I&amp;rsquo;m 26 years old now. I wrote this article down just 10 days before I need to fly to Canada. There is a little sadness and uncertainty. I would probably can&amp;rsquo;t go back for the next one year. I&amp;rsquo;m gonna miss my girlfriend and my parents. And Winnipeg is actually a little bit boraing there. Luckly I met Helen and Pang here, which gives me a little positive and confident to keep going.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
