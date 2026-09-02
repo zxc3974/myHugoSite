@@ -1,5 +1,5 @@
 # 起始 URL（换成您自己的域名）
-baseURL: 'https://hugo-start.pages.dev'
+baseURL: 'https://myhugosite-cnt.pages.dev/'
 # 网站标题
 title: 'Hugo Start'
 # 每页显示的文章数量
