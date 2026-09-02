@@ -1,5 +1,5 @@
 ---
-title: "2026 09 01 the First Post"
+title: "My Hugo First Post"
 summary: ""
 date: 2026-09-01T21:14:19+08:00
 lastmod: 2026-09-01T21:14:19+08:00
